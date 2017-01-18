@@ -1,4 +1,4 @@
-# Zipcode
+# Zipcode CLI
 
 ## Usage
 
