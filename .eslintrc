@@ -1,0 +1,13 @@
+{
+  "name": "zipcode-cli",
+  "version": "1.0.0",
+  "eslintConfig": {
+    "env": {
+      "node": true
+    }
+  },
+
+  "parserOptions": {
+    "ecmaVersion": 6
+  }
+}

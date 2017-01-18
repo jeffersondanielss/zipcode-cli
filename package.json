@@ -1,0 +1,12 @@
+{
+  "name": "zipcode-cli",
+  "version": "1.0.0",
+  "main": "zipcode.js",
+  "repository": {},
+  "author": "jeffersondanielss",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0"
+  }
+}
