@@ -1,12 +1,18 @@
 {
   "name": "zipcode-cli",
+  "description": "Recebe um cep e retorna o endereço completo.",
   "version": "1.0.0",
-  "main": "zipcode.js",
-  "repository": {},
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10"
+  },
   "author": "jeffersondanielss",
   "license": "MIT",
   "dependencies": {
     "chalk": "^1.1.3",
     "commander": "^2.9.0"
+  },
+  "bin": {
+    "zipcode": "index.js"
   }
 }

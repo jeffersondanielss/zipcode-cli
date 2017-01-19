@@ -8,26 +8,32 @@
 
 ### Options
 
-Show just address, `-a, --address`.
+Mostrar apenas a logradouro, `-l, --logradouro`.
 
 ```bash
 $ zipcode <cep> -a
 ```
 
-Show just city, `-c, --city`.
+Mostrar apenas a cidade, `-c, --cidade`.
 
 ```bash
 $ zipcode <cep> -c
 ```
   
-Show just state, `-s, --state`.
+Mostrar apenas o estado, `-e, --estado`.
 
 ```bash
 $ zipcode <cep> -s
 ```
 
-Show just district, `-s, --district`.
+Mostrar apenas o bairro, `-b, --bairro`.
 
 ```bash
 $ zipcode <cep> -d
+```
+
+Combinação de parametros, `-lbce`.
+
+```bash
+$ zipcode <cep> -lbce
 ```
