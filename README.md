@@ -1,12 +1,12 @@
 # Zipcode CLI
 
-## Usage
+## Como usar
 
 ```bash
   $ zipcode <cep>
 ```
 
-### Options
+### Opções
 
 Mostrar apenas a logradouro, `-l, --logradouro`.
 
@@ -37,3 +37,6 @@ Combinação de parametros, `-lbce`.
 ```bash
 $ zipcode <cep> -lbce
 ```
+
+### lisence
+MIT
