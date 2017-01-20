@@ -17,10 +17,11 @@ program
 
 program
   .action((code) => {
-    postmon.get(code, options.response);
+    var hasArgs = program.rawArgs.slice(3, 4).length;
+    hasArgs ? postmon.get(code, options.searchArgs) : postmon.get(code, options.all)
   });
 
 program.parse(process.argv);
 
-if (!program.args.length)
-  program.help();
+if (!program.args.length) program.help();
+
