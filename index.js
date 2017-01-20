@@ -2,7 +2,7 @@
 
 'use strict';
 
-const program = require('commander');
+const program  = require('commander');
 const postmon  = require('./lib/postmon');
 const options  = require('./lib/options');
 
