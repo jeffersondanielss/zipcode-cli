@@ -1,5 +1,18 @@
 # Zipcode CLI
 
+
+## Instalação
+
+Abra seu terminal e execute:
+
+```bash
+$ npm install -g zipcode-cli
+
+// ou
+
+yarn global add zipcode-cli --prefix /usr/local
+```
+
 ## Como usar
 
 ```bash
