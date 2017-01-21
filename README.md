@@ -3,7 +3,7 @@
 ## Como usar
 
 ```bash
-  $ zipcode <cep>
+$ zipcode <cep>
 ```
 
 ### Opções
