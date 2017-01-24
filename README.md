@@ -10,7 +10,7 @@ $ npm install -g zipcode-cli
 
 // ou
 
-yarn global add zipcode-cli --prefix /usr/local
+$ yarn global add zipcode-cli --prefix /usr/local
 ```
 
 ## Como usar
