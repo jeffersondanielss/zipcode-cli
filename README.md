@@ -3,14 +3,10 @@
 
 ## Instalação
 
-Abra seu terminal e execute:
+Clone o repositório, entre na pasta e execute:
 
 ```bash
-$ npm install -g zipcode-cli
-
-// ou
-
-$ yarn global add zipcode-cli --prefix /usr/local
+$ npm install -g
 ```
 
 ## Como usar
